@@ -1,0 +1,1 @@
+To run type : node routes.js
